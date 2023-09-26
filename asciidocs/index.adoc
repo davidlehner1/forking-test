@@ -2,3 +2,4 @@
 ifndef::imagesdir[:imagesdir: images]
 
 image::img.png[]
+
